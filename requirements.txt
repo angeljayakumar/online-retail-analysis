@@ -1,0 +1,13 @@
+# Requirements for Online Retail Transaction Analysis Project
+# This project focuses on analyzing customer behavior, sales trends, and identifying popular products
+# using data from a CSV file. It includes ETL processing, data visualization, and basic machine learning
+# techniques such as encoding categorical variables and customer segmentation.
+
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+scikit-learn==1.4.2
+jupyterlab==4.1.5
+notebook==7.1.2
