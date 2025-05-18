@@ -31,7 +31,6 @@ df = pd.read_csv('cleaned_data.csv', parse_dates=['InvoiceDate'])
 
 ## Future Work
 
-- Customer segmentation analysis postponed due to time constraints.
 - Implement interactive visualization for identifying high-value, low-frequency customers using Plotly or another suitable tool to enhance insight into customer segments.
 
 
