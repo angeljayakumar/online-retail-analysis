@@ -27,4 +27,12 @@ Use the `parse_dates` parameter when reading the CSV:
 
 ```python
 df = pd.read_csv('cleaned_data.csv', parse_dates=['InvoiceDate'])
+
+
+## Future Work
+
+- Customer segmentation analysis postponed due to time constraints.
+- (Additional enhancements to be added here for future delivery.)
+
+
 ```
