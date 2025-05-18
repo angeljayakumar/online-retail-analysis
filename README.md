@@ -50,16 +50,13 @@ Convert the InvoiceDate column to datetime:
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 This ensures consistent types for analysis and avoids the warning.
 
-🔧 Pending Fixes for Other Object Columns
-The following columns remain as object and need review/conversion:
+### Known Issue: `Country` and `Weekday` Data Types
 
-StockCode
+- Attempted to convert the `Country` and `Weekday` columns from `object` to pandas’ dedicated `string` dtype for better string handling.
+- Conversion did not succeed due to environment or pandas version limitations.
+- Currently, these columns remain as `object` dtype (which holds strings as generic Python objects).
+- This will be addressed in a future update once the environment supports pandas string dtype or an alternative solution is found.
 
-ProductName
-
-Country
-
-Weekday
 
 These will be addressed in future updates.
 
