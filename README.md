@@ -63,7 +63,7 @@ Popular product identification
 
 Top 10 products visualization
 
-###Sales Trend Analysis
+### Sales Trend Analysis
 
 Time-based sales aggregation
 
@@ -172,12 +172,6 @@ Seaborn – Enhanced charts
 
 Plotly – Interactive plotting
 
-## 👩‍💻 Credits
-
-Project by: Angelnesakumari Jayakumar
-Email: angeljayakumar86@gmail.com
-Location: Mitcham, United Kingdom
-
 ## 📑 Content
 
 etl_pipeline.py – Scripts for data loading and cleaning
@@ -187,5 +181,7 @@ customer_analysis.py – Customer behavior analysis
 product_analysis.py – Product trend analysis
 
 sales_trend.py – Time-based sales trend analysis
+
+## 👩‍💻 Credits
 
 ## 🙏 Acknowledgements
