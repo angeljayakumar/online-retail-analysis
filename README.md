@@ -2,7 +2,9 @@
 
 This project presents a complete ETL and Data Analysis pipeline for an online retail transaction dataset. The goal is to understand customer behavior, product popularity, and sales trends to generate insights that can inform better business strategies for marketing, inventory management, and pricing optimization.
 
-<img src="path/to/images/online_shopping.png" alt="Alt text" width="150"/>
+![My Image](data/images/online_shopping.png)
+
+<img src="path/to/images/online_shopping.png" alt="Onlline Shopping" width="100"/>
 
 ## 📂 Dataset Content
 
