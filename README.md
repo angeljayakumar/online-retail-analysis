@@ -205,19 +205,23 @@ Angelnesakumari Jayakumar - Data Manager, Data Analyst, and Project Manager
 
 - ChatGPT - AI assistant for additional project support, created by OpenAI
 
+### Asset
+
+Alamy - Provided the image used in the README (Photographer: Eric Muhamad Naris ,https://www.alamy.com/cartoon-flat-style-drawing-active-man-coming-out-of-monitor-computer-screen-with-holding-shopping-bags-sale-digital-lifestyle-consumerism-online-s-image558945272.html]
+
 ## 🙏 Acknowledgements
 
 This project is a significant milestone, marking my return to coding as a stay-at-home mum after university. As a basic beginner-friendly project, it’s designed to be accessible to others learning data analysis. A huge thank you to everyone who supported me in bringing this project to life:
 
-- Mark Briscoe - For teaching Python coding and guiding us through setting up Visual Studio Code
+- Mark Briscoe - For teaching Python coding and guiding us through setting up Visual Studio Code.
 
-- John Rearden - For his insightful lessons on managing virtual environments in Visual Studio Code
+- John Rearden - For his insightful lessons on managing virtual environments in Visual Studio Code.
 
 - Niall Maher - For teaching data analytics topics, including data visualization.
 
 - Emma Lamont - For her invaluable guidance and detailed insights during daily stand-ups and stand-downs.
 
-- YouTube Community - For countless tutorials and walkthroughs that helped clarify complex concepts
+- YouTube Community - For countless tutorials and walkthroughs that helped clarify few concepts.
 
 - My bootcamp peers - For their feedback and collaboration throughout the project.
 
