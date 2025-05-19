@@ -131,8 +131,6 @@ Data Integrity: Only valid transactions (non-cancelled, non-zero quantities) are
 
 ## 🐞 Unfixed Bugs
 
-Hover info in Plotly charts occasionally overlaps on smaller screens.
-
 Product naming inconsistencies may still exist due to free-text entries.
 
 Country and Weekday columns remain in object dtype.
