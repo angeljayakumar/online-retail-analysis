@@ -187,7 +187,7 @@ sales_trend.py – Time-based sales trend analysis
 
 ### Contributors
 
-- Angelnesakumari Jayakumar - Project lead, data analysis, and implementation
+Angelnesakumari Jayakumar - Data Manager, Data Analyst, and Project Manager
 
 ### Libraries and Tools
 
@@ -206,3 +206,21 @@ sales_trend.py – Time-based sales trend analysis
 - ChatGPT - AI assistant for additional project support, created by OpenAI
 
 ## 🙏 Acknowledgements
+
+This project is a significant milestone, marking my return to coding as a stay-at-home mum after university. A huge thank you to everyone who supported me in bringing this project to life:
+
+- Mark Briscoe - For teaching Python coding and guiding us through setting up Visual Studio Code
+
+- John Rearden - For his insightful lessons on managing virtual environments in Visual Studio Code
+
+- Niel - For teaching data analytics topics, including data visualization.
+
+- Emma Lamont - For her invaluable guidance and detailed insights during daily stand-ups and stand-downs.
+
+- YouTube Community - For countless tutorials and walkthroughs that helped clarify complex concepts
+
+- My bootcamp peers - For their feedback and collaboration throughout the project.
+
+- My wonderful husband - For his endless patience, encouragement, and support during study sessions.
+
+- My amazing little kids - For their smiles and love that kept me motivated every step of the way.
