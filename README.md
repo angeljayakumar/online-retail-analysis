@@ -215,15 +215,15 @@ This project is a significant milestone, marking my return to coding as a stay-a
 
 - Mark Briscoe - For teaching Python coding and guiding us through setting up Visual Studio Code.
 
-- John Rearden - For his insightful lessons on managing virtual environments in Visual Studio Code.
+- John Rearden - For teaching virtual environments in Visual Studio Code and using GitHub to share resources and guide us.
 
-- Niall Maher - For teaching data analytics topics, including data visualization.
+- Niel McEwen - For teaching data analytics topics, including data visualization.
 
 - Emma Lamont - For her invaluable guidance and detailed insights during daily stand-ups and stand-downs.
 
 - YouTube Community - For countless tutorials and walkthroughs that helped clarify few concepts.
 
-- My bootcamp peers - For their feedback and collaboration throughout the project.
+- My bootcamp peers - For their feedback, collaboration, and support throughout the project in Slack.
 
 - My wonderful husband - For his endless patience, encouragement, and support during study sessions.
 
