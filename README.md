@@ -1,6 +1,6 @@
 # 📦 Online Retail Analysis
 
-This project presents a complete ETL and Data Analysis pipeline for an online retail transaction dataset. The goal is to understand customer behavior, product popularity, and sales trends to generate insights that can inform better business strategies for marketing, inventory management, and pricing optimization.
+This project is a basic, beginner-friendly data analytics project that presents a ETL (Extract, Transform, Load) and data analysis pipeline using an online retail transaction dataset. Designed to be accessible for those new to data analysis, it explores customer behavior, product popularity, and sales trends to generate simple yet meaningful insights for improving marketing, inventory management, and pricing strategies.
 
 ![My Image](data/images/online_shopping.png)
 
@@ -207,13 +207,13 @@ Angelnesakumari Jayakumar - Data Manager, Data Analyst, and Project Manager
 
 ## 🙏 Acknowledgements
 
-This project is a significant milestone, marking my return to coding as a stay-at-home mum after university. A huge thank you to everyone who supported me in bringing this project to life:
+This project is a significant milestone, marking my return to coding as a stay-at-home mum after university. As a basic beginner-friendly project, it’s designed to be accessible to others learning data analysis. A huge thank you to everyone who supported me in bringing this project to life:
 
 - Mark Briscoe - For teaching Python coding and guiding us through setting up Visual Studio Code
 
 - John Rearden - For his insightful lessons on managing virtual environments in Visual Studio Code
 
-- Niel - For teaching data analytics topics, including data visualization.
+- Niall Maher - For teaching data analytics topics, including data visualization.
 
 - Emma Lamont - For her invaluable guidance and detailed insights during daily stand-ups and stand-downs.
 
