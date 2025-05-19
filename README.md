@@ -36,13 +36,9 @@ Analyze sales patterns over time to support forecasting.
 
 ## ❓ Hypotheses and How to Validate
 
-Hypothesis Validation Approach
+High-spending customers shop more frequently, Use RFM analysis (Recency, Frequency, Monetary)
 
-High-spending customers shop more frequently Use RFM analysis (Recency, Frequency, Monetary)
-
-Certain products consistently sell more Group by ProductName and rank by total quantity
-
-Sales show monthly seasonality Aggregate sales by Month and plot trends
+Certain products consistently sell more, Group by ProductName and rank by total quantity
 
 ## 🗺️ Project Plan
 
@@ -155,7 +151,7 @@ Explore sales trends
 
 Deploy dashboard (e.g., Tableau)
 
-Automate ETL workflow with scheduling (e.g., Airflow)
+Automate ETL workflow with scheduling
 
 Convert object columns (Country, Weekday) to pandas string dtype when environment supports it
 
