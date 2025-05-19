@@ -4,8 +4,6 @@ This project presents a complete ETL and Data Analysis pipeline for an online re
 
 ![My Image](data/images/online_shopping.png)
 
-<img src="path/to/images/online_shopping.png" alt="Onlline Shopping" width="100"/>
-
 ## 📂 Dataset Content
 
 The dataset is sourced from Kaggle and contains historical transaction data from a UK-based online retail store.
@@ -39,8 +37,11 @@ Analyze sales patterns over time to support forecasting.
 ## ❓ Hypotheses and How to Validate
 
 Hypothesis Validation Approach
+
 High-spending customers shop more frequently Use RFM analysis (Recency, Frequency, Monetary)
+
 Certain products consistently sell more Group by ProductName and rank by total quantity
+
 Sales show monthly seasonality Aggregate sales by Month and plot trends
 
 ## 🗺️ Project Plan
@@ -97,9 +98,9 @@ Plotly for interactive charts
 
 ## Fixed Issues
 
-⚠️ Data Type & Import Handling
-
 ### Issue 1: InvoiceDate Becomes object When Reloaded
+
+    ⚠️ Data Type & Import Handling
 
 During the ETL process, InvoiceDate was correctly converted to datetime.
 
@@ -128,12 +129,6 @@ Ensure InvoiceDate is also properly parsed:
 
 df['InvoiceDate'] = pd.to_datetime(df['InvoiceDate'])
 
-## Known Issue: Country and Weekday Columns
-
-Attempts to convert Country and Weekday to the string dtype were unsuccessful due to pandas/environment constraints.
-
-These columns currently remain as object dtype and may be updated in future releases for optimized string handling.
-
 ## ⚖️ Ethical Considerations
 
 Data Integrity: Only valid transactions (non-cancelled, non-zero quantities) are included.
@@ -145,6 +140,10 @@ Hover info in Plotly charts occasionally overlaps on smaller screens.
 Product naming inconsistencies may still exist due to free-text entries.
 
 Country and Weekday columns remain in object dtype.
+
+Attempts to convert Country and Weekday to the string dtype were unsuccessful due to pandas/environment constraints.
+
+These columns currently remain as object dtype and may be updated in future releases for optimized string handling.
 
 ## 🚧 Development Roadmap
 
@@ -185,5 +184,25 @@ product_analysis.py – Product trend analysis
 sales_trend.py – Time-based sales trend analysis
 
 ## 👩‍💻 Credits
+
+### Contributors
+
+- Angelnesakumari Jayakumar - Project lead, data analysis, and implementation
+
+### Libraries and Tools
+
+- Pandas - Used for data manipulation and analysis (License: BSD-3-Clause)
+
+- Matplotlib - Used for data visualization and plotting (License: PSF)
+
+- Jupyter Notebook - Used for interactive data analysis (License: BSD-3-Clause)
+
+- Visual Studio Code - Used as the primary code editor and development environment (License: MIT)
+
+- Python Tutor - Used for visualizing and understanding Python code execution (License: MIT)
+
+- Grok - AI assistant for project guidance and troubleshooting, created by xAI
+
+- ChatGPT - AI assistant for additional project support, created by OpenAI
 
 ## 🙏 Acknowledgements
