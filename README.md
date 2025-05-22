@@ -1,8 +1,6 @@
-# 📦 Online Retail Analysis
+<img src="data/images/Online Retail Analysis.png" width="600" height="300"/>
 
 This project is a basic, beginner-friendly data analytics project that presents a ETL (Extract, Transform, Load) and data analysis pipeline using an online retail transaction dataset. Designed to be accessible for those new to data analysis, it explores customer behavior, product popularity, and sales trends to generate simple yet meaningful insights for improving marketing, inventory management, and pricing strategies.
-
-![My Image](data/images/online_shopping.png)
 
 ## 📂 Dataset Content
 
