@@ -199,7 +199,9 @@ Angelnesakumari Jayakumar - Data Manager, Data Analyst, and Project Manager
 
 ### Asset
 
-Alamy - Provided the image used in the README (Photographer: Eric Muhamad Naris ,https://www.alamy.com/cartoon-flat-style-drawing-active-man-coming-out-of-monitor-computer-screen-with-holding-shopping-bags-sale-digital-lifestyle-consumerism-online-s-image558945272.html]
+Project Image
+
+Designed using Canva
 
 ## 🙏 Acknowledgements
 
