@@ -98,7 +98,7 @@ Plotly for interactive charts
 
 During the ETL process, InvoiceDate was correctly converted to datetime.
 
-However, when saved to CSV and reloaded in another notebook, it appeared as object (string).
+However, when saved to CSV and reloaded in another notebook, it appeared as object .
 
 This occurred because CSV files store dates as plain text.
 
